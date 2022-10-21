@@ -37,5 +37,3 @@ rt={
 BellmanFord('C',{'n2':1,'n3':0,'n6':4})
 print(rt)
 # qui potete aggiungere altre invocazioni
- 
-print(out)
